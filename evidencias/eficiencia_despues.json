@@ -1,0 +1,65 @@
+[
+  {
+    "consulta": "Publicaciones por categoría, orden por fecha",
+    "etapa": "IXSCAN",
+    "indice": "idx_categoria_fecha",
+    "docs_examinados": 111,
+    "docs_devueltos": 111,
+    "ms_servidor": 1,
+    "ms_cliente": 240.4
+  },
+  {
+    "consulta": "Publicaciones de un usuario",
+    "etapa": "IXSCAN",
+    "indice": "idx_usuario",
+    "docs_examinados": 4,
+    "docs_devueltos": 4,
+    "ms_servidor": 1,
+    "ms_cliente": 102.7
+  },
+  {
+    "consulta": "Reacciones de una publicación",
+    "etapa": "IXSCAN",
+    "indice": "idx_publicacion",
+    "docs_examinados": 2,
+    "docs_devueltos": 2,
+    "ms_servidor": 1,
+    "ms_cliente": 99.0
+  },
+  {
+    "consulta": "Comentarios de un usuario",
+    "etapa": "IXSCAN",
+    "indice": "idx_usuario",
+    "docs_examinados": 3,
+    "docs_devueltos": 3,
+    "ms_servidor": 1,
+    "ms_cliente": 101.6
+  },
+  {
+    "consulta": "Usuario por correo",
+    "etapa": "IXSCAN",
+    "indice": "idx_correo_unico",
+    "docs_examinados": 1,
+    "docs_devueltos": 1,
+    "ms_servidor": 1,
+    "ms_cliente": 93.4
+  },
+  {
+    "consulta": "Agregación: top 10 usuarios más activos",
+    "etapa": "-",
+    "indice": "-",
+    "docs_examinados": null,
+    "docs_devueltos": 10,
+    "ms_servidor": null,
+    "ms_cliente": 191.0
+  },
+  {
+    "consulta": "Agregación: impacto de campañas",
+    "etapa": "-",
+    "indice": "-",
+    "docs_examinados": null,
+    "docs_devueltos": 10,
+    "ms_servidor": null,
+    "ms_cliente": 133.9
+  }
+]

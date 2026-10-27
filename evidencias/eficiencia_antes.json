@@ -1,0 +1,65 @@
+[
+  {
+    "consulta": "Publicaciones por categoría, orden por fecha",
+    "etapa": "COLLSCAN",
+    "indice": "-",
+    "docs_examinados": 500,
+    "docs_devueltos": 111,
+    "ms_servidor": 0,
+    "ms_cliente": 218.1
+  },
+  {
+    "consulta": "Publicaciones de un usuario",
+    "etapa": "COLLSCAN",
+    "indice": "-",
+    "docs_examinados": 500,
+    "docs_devueltos": 4,
+    "ms_servidor": 0,
+    "ms_cliente": 97.6
+  },
+  {
+    "consulta": "Reacciones de una publicación",
+    "etapa": "COLLSCAN",
+    "indice": "-",
+    "docs_examinados": 500,
+    "docs_devueltos": 2,
+    "ms_servidor": 0,
+    "ms_cliente": 100.6
+  },
+  {
+    "consulta": "Comentarios de un usuario",
+    "etapa": "COLLSCAN",
+    "indice": "-",
+    "docs_examinados": 500,
+    "docs_devueltos": 3,
+    "ms_servidor": 0,
+    "ms_cliente": 102.6
+  },
+  {
+    "consulta": "Usuario por correo",
+    "etapa": "COLLSCAN",
+    "indice": "-",
+    "docs_examinados": 500,
+    "docs_devueltos": 1,
+    "ms_servidor": 0,
+    "ms_cliente": 103.9
+  },
+  {
+    "consulta": "Agregación: top 10 usuarios más activos",
+    "etapa": "-",
+    "indice": "-",
+    "docs_examinados": null,
+    "docs_devueltos": 10,
+    "ms_servidor": null,
+    "ms_cliente": 497.1
+  },
+  {
+    "consulta": "Agregación: impacto de campañas",
+    "etapa": "-",
+    "indice": "-",
+    "docs_examinados": null,
+    "docs_devueltos": 10,
+    "ms_servidor": null,
+    "ms_cliente": 253.5
+  }
+]
