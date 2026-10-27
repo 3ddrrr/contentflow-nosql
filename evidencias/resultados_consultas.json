@@ -1,0 +1,1558 @@
+[
+  {
+    "consulta": 1,
+    "titulo": "Usuarios móviles de género femenino",
+    "registros": 10,
+    "ms": 161,
+    "datos": [
+      {
+        "nombre": "Patricia Mitchell",
+        "pais": "British Indian Ocean Territory (Chagos Archipelago)",
+        "fecha_registro": "2025-05-28 09:24:02"
+      },
+      {
+        "nombre": "Melanie Johnson",
+        "pais": "Korea",
+        "fecha_registro": "2025-05-22 05:02:51"
+      },
+      {
+        "nombre": "Renee Evans",
+        "pais": "Pitcairn Islands",
+        "fecha_registro": "2025-05-18 15:09:02"
+      },
+      {
+        "nombre": "Mathew Myers",
+        "pais": "Bangladesh",
+        "fecha_registro": "2025-05-01 17:29:05"
+      },
+      {
+        "nombre": "Hannah Clark",
+        "pais": "South Georgia and the South Sandwich Islands",
+        "fecha_registro": "2025-04-27 09:41:33"
+      },
+      {
+        "nombre": "Nancy Jackson",
+        "pais": "Sri Lanka",
+        "fecha_registro": "2025-04-08 12:56:46"
+      },
+      {
+        "nombre": "Lynn Guerrero",
+        "pais": "Western Sahara",
+        "fecha_registro": "2025-03-28 08:51:26"
+      },
+      {
+        "nombre": "Ryan Montes",
+        "pais": "Moldova",
+        "fecha_registro": "2025-03-02 16:33:41"
+      },
+      {
+        "nombre": "Barbara Gonzalez",
+        "pais": "Tajikistan",
+        "fecha_registro": "2025-02-15 06:11:04"
+      },
+      {
+        "nombre": "Michael Morris",
+        "pais": "Denmark",
+        "fecha_registro": "2025-01-25 22:42:25"
+      }
+    ]
+  },
+  {
+    "consulta": 2,
+    "titulo": "Últimas publicaciones de Tecnología",
+    "registros": 10,
+    "ms": 96,
+    "datos": [
+      {
+        "_id": "pub_403",
+        "usuario_id": "user_216",
+        "fecha_publicacion": "2025-07-13 17:32:09",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#aprendizaje"
+        ],
+        "tipo": "Imagen"
+      },
+      {
+        "_id": "pub_317",
+        "usuario_id": "user_318",
+        "fecha_publicacion": "2025-07-12 15:18:59",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura",
+          "#innovacion",
+          "#aprendizaje"
+        ],
+        "tipo": "Imagen"
+      },
+      {
+        "_id": "pub_247",
+        "usuario_id": "user_373",
+        "fecha_publicacion": "2025-07-12 14:28:14",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#innovacion",
+          "#aprendizaje",
+          "#cultura"
+        ],
+        "tipo": "Imagen"
+      },
+      {
+        "_id": "pub_485",
+        "usuario_id": "user_430",
+        "fecha_publicacion": "2025-07-12 04:28:47",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#innovacion"
+        ],
+        "tipo": "Video"
+      },
+      {
+        "_id": "pub_7",
+        "usuario_id": "user_387",
+        "fecha_publicacion": "2025-07-09 20:46:43",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#futbol",
+          "#aprendizaje",
+          "#cultura"
+        ],
+        "tipo": "Imagen"
+      },
+      {
+        "_id": "pub_201",
+        "usuario_id": "user_393",
+        "fecha_publicacion": "2025-07-07 01:43:00",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura",
+          "#aprendizaje"
+        ],
+        "tipo": "Imagen"
+      },
+      {
+        "_id": "pub_37",
+        "usuario_id": "user_318",
+        "fecha_publicacion": "2025-07-02 06:08:45",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura"
+        ],
+        "tipo": "Video"
+      },
+      {
+        "_id": "pub_283",
+        "usuario_id": "user_80",
+        "fecha_publicacion": "2025-07-01 17:28:47",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#innovacion",
+          "#cultura",
+          "#futbol"
+        ],
+        "tipo": "Imagen"
+      },
+      {
+        "_id": "pub_430",
+        "usuario_id": "user_382",
+        "fecha_publicacion": "2025-06-30 05:03:18",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#innovacion"
+        ],
+        "tipo": "Video"
+      },
+      {
+        "_id": "pub_154",
+        "usuario_id": "user_139",
+        "fecha_publicacion": "2025-06-28 07:37:46",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#innovacion",
+          "#aprendizaje",
+          "#series"
+        ],
+        "tipo": "Video"
+      }
+    ]
+  },
+  {
+    "consulta": 3,
+    "titulo": "Comentarios más valorados",
+    "registros": 58,
+    "ms": 128,
+    "datos": [
+      {
+        "usuario_id": "user_395",
+        "comentario": "Player explain bring argue anything.",
+        "likes": 100
+      },
+      {
+        "usuario_id": "user_340",
+        "comentario": "Institution prevent each writer anyone child.",
+        "likes": 100
+      },
+      {
+        "usuario_id": "user_275",
+        "comentario": "Wide you seek recent.",
+        "likes": 100
+      },
+      {
+        "usuario_id": "user_431",
+        "comentario": "Born property blood sport good race health.",
+        "likes": 100
+      },
+      {
+        "usuario_id": "user_285",
+        "comentario": "Blue daughter pressure share throughout crime usually.",
+        "likes": 99
+      },
+      {
+        "usuario_id": "user_499",
+        "comentario": "Local particular father beautiful population.",
+        "likes": 99
+      },
+      {
+        "usuario_id": "user_404",
+        "comentario": "Would realize every course.",
+        "likes": 99
+      },
+      {
+        "usuario_id": "user_258",
+        "comentario": "Majority major pick plan mean teacher chair.",
+        "likes": 99
+      },
+      {
+        "usuario_id": "user_143",
+        "comentario": "Also fall include support edge.",
+        "likes": 99
+      },
+      {
+        "usuario_id": "user_38",
+        "comentario": "Writer much bed provide close sense something.",
+        "likes": 99
+      },
+      {
+        "usuario_id": "user_500",
+        "comentario": "Ten serious hit theory production realize.",
+        "likes": 98
+      },
+      {
+        "usuario_id": "user_143",
+        "comentario": "Adult any fine all though.",
+        "likes": 98
+      },
+      {
+        "usuario_id": "user_12",
+        "comentario": "Standard state town television marriage best style.",
+        "likes": 98
+      },
+      {
+        "usuario_id": "user_159",
+        "comentario": "Mother road threat majority floor action.",
+        "likes": 98
+      },
+      {
+        "usuario_id": "user_47",
+        "comentario": "Republican best product.",
+        "likes": 98
+      },
+      {
+        "usuario_id": "user_300",
+        "comentario": "Name entire follow up.",
+        "likes": 98
+      },
+      {
+        "usuario_id": "user_206",
+        "comentario": "Impact teacher school light wonder.",
+        "likes": 98
+      },
+      {
+        "usuario_id": "user_385",
+        "comentario": "High discussion president without move.",
+        "likes": 98
+      },
+      {
+        "usuario_id": "user_92",
+        "comentario": "Yeah owner his it.",
+        "likes": 97
+      },
+      {
+        "usuario_id": "user_214",
+        "comentario": "Remain occur foreign whom.",
+        "likes": 97
+      },
+      {
+        "usuario_id": "user_492",
+        "comentario": "Candidate hit study dinner bring.",
+        "likes": 97
+      },
+      {
+        "usuario_id": "user_362",
+        "comentario": "Inside church economic serious such.",
+        "likes": 97
+      },
+      {
+        "usuario_id": "user_66",
+        "comentario": "Entire red position as opportunity someone send.",
+        "likes": 97
+      },
+      {
+        "usuario_id": "user_289",
+        "comentario": "Represent all skill whatever fund bar firm.",
+        "likes": 97
+      },
+      {
+        "usuario_id": "user_218",
+        "comentario": "Kitchen cell hundred.",
+        "likes": 97
+      },
+      {
+        "usuario_id": "user_1",
+        "comentario": "Great long that level moment cause.",
+        "likes": 96
+      },
+      {
+        "usuario_id": "user_313",
+        "comentario": "Threat statement main man whom effect itself.",
+        "likes": 96
+      },
+      {
+        "usuario_id": "user_242",
+        "comentario": "Or space space read physical significant.",
+        "likes": 95
+      },
+      {
+        "usuario_id": "user_370",
+        "comentario": "His child keep born tend despite.",
+        "likes": 95
+      },
+      {
+        "usuario_id": "user_78",
+        "comentario": "Economic career around budget.",
+        "likes": 95
+      },
+      {
+        "usuario_id": "user_43",
+        "comentario": "Which between society each amount indeed.",
+        "likes": 95
+      },
+      {
+        "usuario_id": "user_131",
+        "comentario": "Lot total meet a executive.",
+        "likes": 95
+      },
+      {
+        "usuario_id": "user_14",
+        "comentario": "Between writer employee.",
+        "likes": 95
+      },
+      {
+        "usuario_id": "user_239",
+        "comentario": "Special decision spend reality.",
+        "likes": 94
+      },
+      {
+        "usuario_id": "user_359",
+        "comentario": "Hope music middle yeah whose drive.",
+        "likes": 94
+      },
+      {
+        "usuario_id": "user_325",
+        "comentario": "Surface owner heart anything.",
+        "likes": 94
+      },
+      {
+        "usuario_id": "user_393",
+        "comentario": "Possible exactly truth name music guess.",
+        "likes": 94
+      },
+      {
+        "usuario_id": "user_383",
+        "comentario": "Once real fly avoid common.",
+        "likes": 94
+      },
+      {
+        "usuario_id": "user_356",
+        "comentario": "Network place special some after nearly population.",
+        "likes": 93
+      },
+      {
+        "usuario_id": "user_314",
+        "comentario": "Sell on character offer environmental particular skin.",
+        "likes": 93
+      },
+      {
+        "usuario_id": "user_420",
+        "comentario": "Crime six character challenge sing require.",
+        "likes": 93
+      },
+      {
+        "usuario_id": "user_178",
+        "comentario": "Laugh each son partner education energy.",
+        "likes": 93
+      },
+      {
+        "usuario_id": "user_49",
+        "comentario": "Oil bring her mission budget.",
+        "likes": 93
+      },
+      {
+        "usuario_id": "user_471",
+        "comentario": "Financial smile perhaps forward power school.",
+        "likes": 93
+      },
+      {
+        "usuario_id": "user_196",
+        "comentario": "Adult reduce their right test myself say.",
+        "likes": 92
+      },
+      {
+        "usuario_id": "user_225",
+        "comentario": "Whether start least old.",
+        "likes": 92
+      },
+      {
+        "usuario_id": "user_126",
+        "comentario": "Eat service local behind interview sign choose.",
+        "likes": 92
+      },
+      {
+        "usuario_id": "user_76",
+        "comentario": "That property end positive the.",
+        "likes": 92
+      },
+      {
+        "usuario_id": "user_235",
+        "comentario": "Travel month camera weight artist.",
+        "likes": 92
+      },
+      {
+        "usuario_id": "user_425",
+        "comentario": "Control hope marriage get.",
+        "likes": 92
+      },
+      {
+        "usuario_id": "user_224",
+        "comentario": "Society approach quickly home.",
+        "likes": 92
+      },
+      {
+        "usuario_id": "user_276",
+        "comentario": "Paper through explain international player bed get especially.",
+        "likes": 91
+      },
+      {
+        "usuario_id": "user_242",
+        "comentario": "Million we our girl physical.",
+        "likes": 91
+      },
+      {
+        "usuario_id": "user_491",
+        "comentario": "Hospital measure however day.",
+        "likes": 91
+      },
+      {
+        "usuario_id": "user_289",
+        "comentario": "Administration trial truth.",
+        "likes": 91
+      },
+      {
+        "usuario_id": "user_157",
+        "comentario": "Exactly loss wish shake which middle save.",
+        "likes": 91
+      },
+      {
+        "usuario_id": "user_150",
+        "comentario": "Million take true necessary big buy memory.",
+        "likes": 91
+      },
+      {
+        "usuario_id": "user_474",
+        "comentario": "Today move court indicate somebody.",
+        "likes": 91
+      }
+    ]
+  },
+  {
+    "consulta": 4,
+    "titulo": "Videos con #cultura desde marzo de 2025",
+    "registros": 67,
+    "ms": 100,
+    "datos": [
+      {
+        "_id": "pub_58",
+        "fecha_publicacion": "2025-07-13 12:55:38",
+        "categoria": "Educación",
+        "hashtags": [
+          "#futbol",
+          "#aprendizaje",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_476",
+        "fecha_publicacion": "2025-07-09 08:59:26",
+        "categoria": "Cultura",
+        "hashtags": [
+          "#series",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_338",
+        "fecha_publicacion": "2025-07-06 10:50:35",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_468",
+        "fecha_publicacion": "2025-07-06 06:13:36",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#innovacion",
+          "#series",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_434",
+        "fecha_publicacion": "2025-07-04 08:06:48",
+        "categoria": "Educación",
+        "hashtags": [
+          "#futbol",
+          "#innovacion",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_37",
+        "fecha_publicacion": "2025-07-02 06:08:45",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_198",
+        "fecha_publicacion": "2025-06-25 14:07:35",
+        "categoria": "Entretenimiento",
+        "hashtags": [
+          "#innovacion",
+          "#aprendizaje",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_250",
+        "fecha_publicacion": "2025-06-21 15:14:32",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#innovacion",
+          "#cultura",
+          "#series"
+        ]
+      },
+      {
+        "_id": "pub_398",
+        "fecha_publicacion": "2025-06-19 07:11:23",
+        "categoria": "Entretenimiento",
+        "hashtags": [
+          "#cultura",
+          "#innovacion"
+        ]
+      },
+      {
+        "_id": "pub_363",
+        "fecha_publicacion": "2025-06-18 16:45:30",
+        "categoria": "Cultura",
+        "hashtags": [
+          "#futbol",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_152",
+        "fecha_publicacion": "2025-06-17 10:23:02",
+        "categoria": "Entretenimiento",
+        "hashtags": [
+          "#cultura",
+          "#aprendizaje",
+          "#innovacion"
+        ]
+      },
+      {
+        "_id": "pub_204",
+        "fecha_publicacion": "2025-06-17 04:32:57",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura",
+          "#series"
+        ]
+      },
+      {
+        "_id": "pub_479",
+        "fecha_publicacion": "2025-06-12 20:46:38",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#futbol",
+          "#aprendizaje",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_275",
+        "fecha_publicacion": "2025-06-12 08:23:27",
+        "categoria": "Cultura",
+        "hashtags": [
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_214",
+        "fecha_publicacion": "2025-06-12 00:33:28",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#series",
+          "#cultura",
+          "#aprendizaje"
+        ]
+      },
+      {
+        "_id": "pub_87",
+        "fecha_publicacion": "2025-06-10 05:24:06",
+        "categoria": "Entretenimiento",
+        "hashtags": [
+          "#cultura",
+          "#futbol"
+        ]
+      },
+      {
+        "_id": "pub_76",
+        "fecha_publicacion": "2025-06-09 19:27:27",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura",
+          "#series",
+          "#aprendizaje"
+        ]
+      },
+      {
+        "_id": "pub_385",
+        "fecha_publicacion": "2025-06-09 16:58:49",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura",
+          "#futbol",
+          "#series"
+        ]
+      },
+      {
+        "_id": "pub_471",
+        "fecha_publicacion": "2025-06-09 05:23:36",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_176",
+        "fecha_publicacion": "2025-06-05 16:44:26",
+        "categoria": "Cultura",
+        "hashtags": [
+          "#futbol",
+          "#innovacion",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_116",
+        "fecha_publicacion": "2025-06-03 22:30:47",
+        "categoria": "Educación",
+        "hashtags": [
+          "#aprendizaje",
+          "#futbol",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_417",
+        "fecha_publicacion": "2025-06-01 21:28:08",
+        "categoria": "Educación",
+        "hashtags": [
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_106",
+        "fecha_publicacion": "2025-06-01 00:45:43",
+        "categoria": "Entretenimiento",
+        "hashtags": [
+          "#cultura",
+          "#aprendizaje",
+          "#series"
+        ]
+      },
+      {
+        "_id": "pub_260",
+        "fecha_publicacion": "2025-05-31 18:30:26",
+        "categoria": "Educación",
+        "hashtags": [
+          "#futbol",
+          "#cultura",
+          "#series"
+        ]
+      },
+      {
+        "_id": "pub_139",
+        "fecha_publicacion": "2025-05-26 07:56:07",
+        "categoria": "Cultura",
+        "hashtags": [
+          "#cultura",
+          "#innovacion",
+          "#futbol"
+        ]
+      },
+      {
+        "_id": "pub_273",
+        "fecha_publicacion": "2025-05-24 15:29:30",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#cultura",
+          "#futbol"
+        ]
+      },
+      {
+        "_id": "pub_4",
+        "fecha_publicacion": "2025-05-22 19:35:37",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_12",
+        "fecha_publicacion": "2025-05-19 01:51:54",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura",
+          "#aprendizaje",
+          "#innovacion"
+        ]
+      },
+      {
+        "_id": "pub_405",
+        "fecha_publicacion": "2025-05-15 05:53:43",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#series",
+          "#innovacion",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_426",
+        "fecha_publicacion": "2025-05-10 17:50:19",
+        "categoria": "Cultura",
+        "hashtags": [
+          "#innovacion",
+          "#cultura",
+          "#series"
+        ]
+      },
+      {
+        "_id": "pub_182",
+        "fecha_publicacion": "2025-05-08 16:19:39",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#aprendizaje",
+          "#futbol",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_118",
+        "fecha_publicacion": "2025-05-07 08:24:26",
+        "categoria": "Entretenimiento",
+        "hashtags": [
+          "#innovacion",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_265",
+        "fecha_publicacion": "2025-05-07 07:36:40",
+        "categoria": "Educación",
+        "hashtags": [
+          "#futbol",
+          "#cultura",
+          "#innovacion"
+        ]
+      },
+      {
+        "_id": "pub_251",
+        "fecha_publicacion": "2025-05-01 15:35:36",
+        "categoria": "Entretenimiento",
+        "hashtags": [
+          "#cultura",
+          "#futbol"
+        ]
+      },
+      {
+        "_id": "pub_255",
+        "fecha_publicacion": "2025-04-29 17:53:03",
+        "categoria": "Cultura",
+        "hashtags": [
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_107",
+        "fecha_publicacion": "2025-04-26 18:22:20",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#cultura",
+          "#series",
+          "#innovacion"
+        ]
+      },
+      {
+        "_id": "pub_189",
+        "fecha_publicacion": "2025-04-22 17:08:45",
+        "categoria": "Educación",
+        "hashtags": [
+          "#aprendizaje",
+          "#cultura",
+          "#innovacion"
+        ]
+      },
+      {
+        "_id": "pub_281",
+        "fecha_publicacion": "2025-04-14 15:10:54",
+        "categoria": "Cultura",
+        "hashtags": [
+          "#series",
+          "#futbol",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_460",
+        "fecha_publicacion": "2025-04-14 12:29:44",
+        "categoria": "Educación",
+        "hashtags": [
+          "#cultura",
+          "#futbol",
+          "#aprendizaje"
+        ]
+      },
+      {
+        "_id": "pub_137",
+        "fecha_publicacion": "2025-04-13 22:19:41",
+        "categoria": "Entretenimiento",
+        "hashtags": [
+          "#cultura",
+          "#innovacion",
+          "#futbol"
+        ]
+      },
+      {
+        "_id": "pub_243",
+        "fecha_publicacion": "2025-04-12 22:53:07",
+        "categoria": "Educación",
+        "hashtags": [
+          "#cultura",
+          "#futbol",
+          "#innovacion"
+        ]
+      },
+      {
+        "_id": "pub_221",
+        "fecha_publicacion": "2025-04-11 22:07:23",
+        "categoria": "Entretenimiento",
+        "hashtags": [
+          "#futbol",
+          "#series",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_433",
+        "fecha_publicacion": "2025-04-10 08:08:25",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#cultura",
+          "#series"
+        ]
+      },
+      {
+        "_id": "pub_297",
+        "fecha_publicacion": "2025-04-09 23:08:21",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#series",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_196",
+        "fecha_publicacion": "2025-04-09 22:02:59",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_378",
+        "fecha_publicacion": "2025-04-03 18:30:34",
+        "categoria": "Educación",
+        "hashtags": [
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_54",
+        "fecha_publicacion": "2025-04-02 10:14:37",
+        "categoria": "Cultura",
+        "hashtags": [
+          "#cultura",
+          "#futbol",
+          "#series"
+        ]
+      },
+      {
+        "_id": "pub_408",
+        "fecha_publicacion": "2025-03-29 21:38:19",
+        "categoria": "Educación",
+        "hashtags": [
+          "#futbol",
+          "#series",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_239",
+        "fecha_publicacion": "2025-03-25 09:31:26",
+        "categoria": "Entretenimiento",
+        "hashtags": [
+          "#cultura",
+          "#aprendizaje",
+          "#innovacion"
+        ]
+      },
+      {
+        "_id": "pub_280",
+        "fecha_publicacion": "2025-03-25 04:40:29",
+        "categoria": "Educación",
+        "hashtags": [
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_120",
+        "fecha_publicacion": "2025-03-25 00:37:07",
+        "categoria": "Cultura",
+        "hashtags": [
+          "#cultura",
+          "#aprendizaje",
+          "#futbol"
+        ]
+      },
+      {
+        "_id": "pub_200",
+        "fecha_publicacion": "2025-03-24 10:50:17",
+        "categoria": "Cultura",
+        "hashtags": [
+          "#series",
+          "#cultura",
+          "#innovacion"
+        ]
+      },
+      {
+        "_id": "pub_73",
+        "fecha_publicacion": "2025-03-24 02:17:10",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#aprendizaje",
+          "#cultura",
+          "#innovacion"
+        ]
+      },
+      {
+        "_id": "pub_16",
+        "fecha_publicacion": "2025-03-22 12:19:07",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#futbol",
+          "#cultura",
+          "#aprendizaje"
+        ]
+      },
+      {
+        "_id": "pub_183",
+        "fecha_publicacion": "2025-03-19 07:49:40",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura",
+          "#aprendizaje"
+        ]
+      },
+      {
+        "_id": "pub_347",
+        "fecha_publicacion": "2025-03-17 21:14:57",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_263",
+        "fecha_publicacion": "2025-03-16 02:37:24",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_197",
+        "fecha_publicacion": "2025-03-15 20:34:35",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura",
+          "#innovacion",
+          "#futbol"
+        ]
+      },
+      {
+        "_id": "pub_322",
+        "fecha_publicacion": "2025-03-13 20:24:29",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#aprendizaje",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_1",
+        "fecha_publicacion": "2025-03-13 06:37:59",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#series",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_90",
+        "fecha_publicacion": "2025-03-11 05:50:47",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#aprendizaje",
+          "#cultura",
+          "#futbol"
+        ]
+      },
+      {
+        "_id": "pub_308",
+        "fecha_publicacion": "2025-03-11 00:41:51",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_285",
+        "fecha_publicacion": "2025-03-10 19:29:25",
+        "categoria": "Deportes",
+        "hashtags": [
+          "#cultura",
+          "#aprendizaje",
+          "#innovacion"
+        ]
+      },
+      {
+        "_id": "pub_194",
+        "fecha_publicacion": "2025-03-10 00:10:17",
+        "categoria": "Entretenimiento",
+        "hashtags": [
+          "#cultura",
+          "#futbol"
+        ]
+      },
+      {
+        "_id": "pub_362",
+        "fecha_publicacion": "2025-03-08 09:06:40",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#aprendizaje",
+          "#cultura",
+          "#futbol"
+        ]
+      },
+      {
+        "_id": "pub_57",
+        "fecha_publicacion": "2025-03-06 00:00:55",
+        "categoria": "Tecnología",
+        "hashtags": [
+          "#futbol",
+          "#aprendizaje",
+          "#cultura"
+        ]
+      },
+      {
+        "_id": "pub_43",
+        "fecha_publicacion": "2025-03-03 09:25:26",
+        "categoria": "Cultura",
+        "hashtags": [
+          "#cultura",
+          "#aprendizaje",
+          "#futbol"
+        ]
+      }
+    ]
+  },
+  {
+    "consulta": 5,
+    "titulo": "Top 10 usuarios más activos",
+    "registros": 10,
+    "ms": 133,
+    "datos": [
+      {
+        "_id": "user_311",
+        "nombre": "Michael Bass",
+        "pais": "Botswana",
+        "publicaciones": 3,
+        "comentarios": 1,
+        "reacciones": 6,
+        "total": 10
+      },
+      {
+        "_id": "user_205",
+        "nombre": "Kathleen Jones",
+        "pais": "Fiji",
+        "publicaciones": 4,
+        "comentarios": 3,
+        "reacciones": 2,
+        "total": 9
+      },
+      {
+        "_id": "user_473",
+        "nombre": "Jessica Hanson",
+        "pais": "Guinea-Bissau",
+        "publicaciones": 1,
+        "comentarios": 3,
+        "reacciones": 5,
+        "total": 9
+      },
+      {
+        "_id": "user_73",
+        "nombre": "Felicia Jensen",
+        "pais": "Cook Islands",
+        "publicaciones": 4,
+        "comentarios": 2,
+        "reacciones": 3,
+        "total": 9
+      },
+      {
+        "_id": "user_141",
+        "nombre": "Jill Rowland",
+        "pais": "Korea",
+        "publicaciones": 2,
+        "comentarios": 3,
+        "reacciones": 3,
+        "total": 8
+      },
+      {
+        "_id": "user_300",
+        "nombre": "Tammy Weeks",
+        "pais": "Sierra Leone",
+        "publicaciones": 2,
+        "comentarios": 4,
+        "reacciones": 2,
+        "total": 8
+      },
+      {
+        "_id": "user_359",
+        "nombre": "Misty Meyer",
+        "pais": "Saudi Arabia",
+        "publicaciones": 4,
+        "comentarios": 2,
+        "reacciones": 2,
+        "total": 8
+      },
+      {
+        "_id": "user_66",
+        "nombre": "Nathaniel Hill",
+        "pais": "American Samoa",
+        "publicaciones": 2,
+        "comentarios": 2,
+        "reacciones": 4,
+        "total": 8
+      },
+      {
+        "_id": "user_206",
+        "nombre": "Matthew Hatfield",
+        "pais": "Timor-Leste",
+        "publicaciones": 3,
+        "comentarios": 4,
+        "reacciones": 0,
+        "total": 7
+      },
+      {
+        "_id": "user_218",
+        "nombre": "Veronica Nelson",
+        "pais": "Dominican Republic",
+        "publicaciones": 2,
+        "comentarios": 2,
+        "reacciones": 3,
+        "total": 7
+      }
+    ]
+  },
+  {
+    "consulta": 6,
+    "titulo": "Publicaciones más populares",
+    "registros": 10,
+    "ms": 104,
+    "datos": [
+      {
+        "reacciones": 4,
+        "publicacion": "pub_228",
+        "categoria": "Entretenimiento",
+        "tipo": "Texto"
+      },
+      {
+        "reacciones": 4,
+        "publicacion": "pub_312",
+        "categoria": "Educación",
+        "tipo": "Video"
+      },
+      {
+        "reacciones": 4,
+        "publicacion": "pub_358",
+        "categoria": "Cultura",
+        "tipo": "Imagen"
+      },
+      {
+        "reacciones": 4,
+        "publicacion": "pub_368",
+        "categoria": "Entretenimiento",
+        "tipo": "Video"
+      },
+      {
+        "reacciones": 4,
+        "publicacion": "pub_388",
+        "categoria": "Cultura",
+        "tipo": "Video"
+      },
+      {
+        "reacciones": 4,
+        "publicacion": "pub_40",
+        "categoria": "Deportes",
+        "tipo": "Video"
+      },
+      {
+        "reacciones": 4,
+        "publicacion": "pub_429",
+        "categoria": "Tecnología",
+        "tipo": "Imagen"
+      },
+      {
+        "reacciones": 4,
+        "publicacion": "pub_430",
+        "categoria": "Tecnología",
+        "tipo": "Video"
+      },
+      {
+        "reacciones": 4,
+        "publicacion": "pub_50",
+        "categoria": "Cultura",
+        "tipo": "Video"
+      },
+      {
+        "reacciones": 3,
+        "publicacion": "pub_100",
+        "categoria": "Entretenimiento",
+        "tipo": "Video"
+      }
+    ]
+  },
+  {
+    "consulta": 7,
+    "titulo": "Mejores horarios de interacción (hora UTC)",
+    "registros": 10,
+    "ms": 91,
+    "datos": [
+      {
+        "interacciones": 8,
+        "dia": "Martes",
+        "hora": 12
+      },
+      {
+        "interacciones": 8,
+        "dia": "Viernes",
+        "hora": 17
+      },
+      {
+        "interacciones": 7,
+        "dia": "Domingo",
+        "hora": 14
+      },
+      {
+        "interacciones": 7,
+        "dia": "Martes",
+        "hora": 8
+      },
+      {
+        "interacciones": 6,
+        "dia": "Domingo",
+        "hora": 19
+      },
+      {
+        "interacciones": 6,
+        "dia": "Domingo",
+        "hora": 20
+      },
+      {
+        "interacciones": 6,
+        "dia": "Lunes",
+        "hora": 14
+      },
+      {
+        "interacciones": 6,
+        "dia": "Martes",
+        "hora": 23
+      },
+      {
+        "interacciones": 6,
+        "dia": "Jueves",
+        "hora": 15
+      },
+      {
+        "interacciones": 6,
+        "dia": "Viernes",
+        "hora": 3
+      }
+    ]
+  },
+  {
+    "consulta": 8,
+    "titulo": "Perfil de la audiencia",
+    "registros": 9,
+    "ms": 139,
+    "datos": [
+      {
+        "reacciones": 73,
+        "genero": "Femenino",
+        "dispositivo": "Móvil"
+      },
+      {
+        "reacciones": 63,
+        "genero": "Otro",
+        "dispositivo": "Tablet"
+      },
+      {
+        "reacciones": 62,
+        "genero": "Otro",
+        "dispositivo": "Móvil"
+      },
+      {
+        "reacciones": 57,
+        "genero": "Masculino",
+        "dispositivo": "Móvil"
+      },
+      {
+        "reacciones": 57,
+        "genero": "Masculino",
+        "dispositivo": "Tablet"
+      },
+      {
+        "reacciones": 53,
+        "genero": "Femenino",
+        "dispositivo": "Desktop"
+      },
+      {
+        "reacciones": 51,
+        "genero": "Otro",
+        "dispositivo": "Desktop"
+      },
+      {
+        "reacciones": 50,
+        "genero": "Masculino",
+        "dispositivo": "Desktop"
+      },
+      {
+        "reacciones": 34,
+        "genero": "Femenino",
+        "dispositivo": "Tablet"
+      }
+    ]
+  },
+  {
+    "consulta": 9,
+    "titulo": "Impacto de campañas frente a sus metas",
+    "registros": 10,
+    "ms": 147,
+    "datos": [
+      {
+        "_id": "camp_343",
+        "nombre": "Campaña Bed",
+        "objetivo": "Captar nuevos usuarios",
+        "reacciones": 11,
+        "comentarios": 4,
+        "meta_likes": 703,
+        "meta_comentarios": 405,
+        "cumplimiento_likes_pct": 1.6,
+        "cumplimiento_comentarios_pct": 1.0
+      },
+      {
+        "_id": "camp_375",
+        "nombre": "Campaña Common",
+        "objetivo": "Promover contenido",
+        "reacciones": 10,
+        "comentarios": 9,
+        "meta_likes": 312,
+        "meta_comentarios": 161,
+        "cumplimiento_likes_pct": 3.2,
+        "cumplimiento_comentarios_pct": 5.6
+      },
+      {
+        "_id": "camp_97",
+        "nombre": "Campaña Operation",
+        "objetivo": "Captar nuevos usuarios",
+        "reacciones": 10,
+        "comentarios": 1,
+        "meta_likes": 523,
+        "meta_comentarios": 423,
+        "cumplimiento_likes_pct": 1.9,
+        "cumplimiento_comentarios_pct": 0.2
+      },
+      {
+        "_id": "camp_15",
+        "nombre": "Campaña Feel",
+        "objetivo": "Aumentar engagement",
+        "reacciones": 9,
+        "comentarios": 8,
+        "meta_likes": 457,
+        "meta_comentarios": 164,
+        "cumplimiento_likes_pct": 2.0,
+        "cumplimiento_comentarios_pct": 4.9
+      },
+      {
+        "_id": "camp_211",
+        "nombre": "Campaña Culture",
+        "objetivo": "Promover contenido",
+        "reacciones": 9,
+        "comentarios": 5,
+        "meta_likes": 860,
+        "meta_comentarios": 465,
+        "cumplimiento_likes_pct": 1.0,
+        "cumplimiento_comentarios_pct": 1.1
+      },
+      {
+        "_id": "camp_255",
+        "nombre": "Campaña Beat",
+        "objetivo": "Captar nuevos usuarios",
+        "reacciones": 9,
+        "comentarios": 9,
+        "meta_likes": 505,
+        "meta_comentarios": 59,
+        "cumplimiento_likes_pct": 1.8,
+        "cumplimiento_comentarios_pct": 15.3
+      },
+      {
+        "_id": "camp_46",
+        "nombre": "Campaña A",
+        "objetivo": "Aumentar engagement",
+        "reacciones": 9,
+        "comentarios": 5,
+        "meta_likes": 788,
+        "meta_comentarios": 191,
+        "cumplimiento_likes_pct": 1.1,
+        "cumplimiento_comentarios_pct": 2.6
+      },
+      {
+        "_id": "camp_89",
+        "nombre": "Campaña Eye",
+        "objetivo": "Aumentar engagement",
+        "reacciones": 9,
+        "comentarios": 5,
+        "meta_likes": 571,
+        "meta_comentarios": 366,
+        "cumplimiento_likes_pct": 1.6,
+        "cumplimiento_comentarios_pct": 1.4
+      },
+      {
+        "_id": "camp_112",
+        "nombre": "Campaña Every",
+        "objetivo": "Captar nuevos usuarios",
+        "reacciones": 8,
+        "comentarios": 5,
+        "meta_likes": 661,
+        "meta_comentarios": 475,
+        "cumplimiento_likes_pct": 1.2,
+        "cumplimiento_comentarios_pct": 1.1
+      },
+      {
+        "_id": "camp_314",
+        "nombre": "Campaña Nice",
+        "objetivo": "Aumentar engagement",
+        "reacciones": 8,
+        "comentarios": 7,
+        "meta_likes": 814,
+        "meta_comentarios": 314,
+        "cumplimiento_likes_pct": 1.0,
+        "cumplimiento_comentarios_pct": 2.2
+      }
+    ]
+  },
+  {
+    "consulta": 10,
+    "titulo": "Categorías con mayor engagement",
+    "registros": 5,
+    "ms": 107,
+    "datos": [
+      {
+        "_id": "Tecnología",
+        "publicaciones": 111,
+        "reacciones": 102,
+        "comentarios": 118,
+        "interacciones": 220,
+        "promedio_por_publicacion": 1.98
+      },
+      {
+        "_id": "Educación",
+        "publicaciones": 102,
+        "reacciones": 105,
+        "comentarios": 109,
+        "interacciones": 214,
+        "promedio_por_publicacion": 2.1
+      },
+      {
+        "_id": "Cultura",
+        "publicaciones": 105,
+        "reacciones": 106,
+        "comentarios": 91,
+        "interacciones": 197,
+        "promedio_por_publicacion": 1.88
+      },
+      {
+        "_id": "Deportes",
+        "publicaciones": 100,
+        "reacciones": 97,
+        "comentarios": 98,
+        "interacciones": 195,
+        "promedio_por_publicacion": 1.95
+      },
+      {
+        "_id": "Entretenimiento",
+        "publicaciones": 82,
+        "reacciones": 90,
+        "comentarios": 84,
+        "interacciones": 174,
+        "promedio_por_publicacion": 2.12
+      }
+    ]
+  }
+]
